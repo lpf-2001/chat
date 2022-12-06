@@ -1,0 +1,77 @@
+[2022-10-27 19:36:15] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-27 19:36:15] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-27 19:36:15] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-27 19:36:15] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-27 19:36:21] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=yaszBUzD&style=simple&aid=16&uin=2750497236&sid=8268181125891517742&cap_cd=gqywWT-8nOarJf4o_w10u4OlzLrQDcdmhndEFnVqjeAhOVpNJiBPmA**&clientype=1&apptype=2 
+[2022-10-27 19:36:41] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 19:37:05] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-27 19:37:05] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-27 19:37:05] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-27 19:37:05] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-27 19:37:07] [WARNING]: 请前往该地址验证 -> https://captcha.go-cqhttp.org/captcha?id=ikQhoJ5U&style=simple&aid=16&uin=2750497236&sid=4730241149122014560&cap_cd=kux7L7CmddVjnW7ORw1rlZV0mOek0JjSmZd0bu_BNfdx4cUyEeBJDw**&clientype=1&apptype=2 
+[2022-10-27 19:37:25] [WARNING]: 登录需要滑条验证码, 请选择验证方式:  
+[2022-10-27 19:37:25] [WARNING]: 1. 使用浏览器抓取滑条并登录 
+[2022-10-27 19:37:25] [WARNING]: 2. 使用手机QQ扫码验证 (需要手Q和gocq在同一网络下). 
+[2022-10-27 19:37:25] [WARNING]: 请输入(1 - 2) (将在10秒后自动选择1)： 
+[2022-10-27 19:37:58] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:02] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:05] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:09] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870676,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":62,"packet_sent":54,"packet_lost":0,"message_received":0,"message_sent":0,"last_message_time":0,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:11] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:12] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:14] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:15] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:19] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:21] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870689,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":62,"packet_sent":54,"packet_lost":0,"message_received":0,"message_sent":0,"last_message_time":0,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:21] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:22] [WARNING]: 上报 Event 数据 {"post_type":"notice","notice_type":"client_status","time":1666870690,"self_id":2750497236,"online":false,"client":{"app_id":537134832,"device_kind":"iPhone","device_name":"iPhone"}}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:23] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:25] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:27] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:28] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:29] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:30] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:32] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1666870699,"self_id":2750497236,"sub_type":"friend","user_id":1474729880,"target_id":2750497236,"message":"爆照","raw_message":"爆照","font":0,"sender":{"age":0,"nickname":"简繁","sex":"unknown","user_id":1474729880},"message_id":1251699778}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:33] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:34] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870701,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":69,"packet_sent":57,"packet_lost":0,"message_received":1,"message_sent":0,"last_message_time":1666870699,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:36] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:36] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:39] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:40] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1666870707,"self_id":2750497236,"sub_type":"friend","font":0,"sender":{"age":0,"nickname":"简繁","sex":"unknown","user_id":1474729880},"message_id":1033657556,"user_id":1474729880,"target_id":2750497236,"message":"爆照","raw_message":"爆照"}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:42] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:43] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:45] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:46] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870714,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":77,"packet_sent":63,"packet_lost":0,"message_received":2,"message_sent":0,"last_message_time":1666870707,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:48] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:38:49] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:52] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:38:52] [WARNING]: 上报 Event 数据 {"post_type":"message","message_type":"private","time":1666870720,"self_id":2750497236,"sub_type":"friend","user_id":1474729880,"target_id":2750497236,"message":"你好","raw_message":"你好","font":0,"sender":{"age":0,"nickname":"简繁","sex":"unknown","user_id":1474729880},"message_id":-1543976585}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:38:55] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:38:59] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870726,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":85,"packet_sent":69,"packet_lost":0,"message_received":3,"message_sent":0,"last_message_time":1666870720,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:39:01] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-27 19:39:04] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-27 19:39:08] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 3 次重试 
+[2022-10-27 19:39:11] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666870739,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":89,"packet_sent":73,"packet_lost":0,"message_received":3,"message_sent":0,"last_message_time":1666870720,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 停止上报：已达重试上限 
+[2022-10-27 19:39:13] [FATAL]: open image cache failed: 文件被其他进程占用 
+[2022-10-27 19:39:25] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-27 19:50:14] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-27 22:51:48] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-27 22:52:18] [WARNING]: 恢复会话失败: register error: Packet timed out , 尝试使用正常流程登录. 
+[2022-10-27 22:52:20] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 22:52:48] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 22:55:32] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 22:58:50] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 22:59:17] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 23:03:15] [WARNING]: 登录失败: 密码错误或账号被冻结 
+[2022-10-27 23:03:43] [WARNING]: 登录失败: 密码错误或账号被冻结 

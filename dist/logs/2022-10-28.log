@@ -1,0 +1,25 @@
+[2022-10-28 00:10:13] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 
+[2022-10-28 00:10:13] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 
+[2022-10-28 00:10:18] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 
+[2022-10-28 00:10:19] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 2 次重试 
+[2022-10-28 00:10:19] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 2 次重试 
+[2022-10-28 00:10:24] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 2 次重试 
+[2022-10-28 00:10:26] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 3 次重试 
+[2022-10-28 00:10:26] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 3 次重试 
+[2022-10-28 00:10:31] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 3 次重试 
+[2022-10-28 00:10:32] [WARNING]: 上报 Event 数据 {"post_type":"notice","notice_type":"notify","time":1666887008,"self_id":2750497236,"sub_type":"poke","user_id":2750497236,"sender_id":2750497236,"target_id":657407891}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2022-10-28 00:10:32] [WARNING]: 上报 Event 数据 {"post_type":"notice","notice_type":"notify","time":1666887008,"self_id":2750497236,"sub_type":"poke","target_id":286913237,"user_id":2750497236,"sender_id":2750497236}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2022-10-28 00:10:37] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666887013,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":255,"packet_sent":225,"packet_lost":0,"message_received":15,"message_sent":17,"last_message_time":1666885799,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2022-10-28 00:10:42] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 
+[2022-10-28 00:10:49] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 2 次重试 
+[2022-10-28 00:10:55] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 3 次重试 
+[2022-10-28 00:11:02] [WARNING]: 上报 Event 数据 {"post_type":"meta_event","meta_event_type":"heartbeat","time":1666887037,"self_id":2750497236,"status":{"app_enabled":true,"app_good":true,"app_initialized":true,"good":true,"online":true,"plugins_good":null,"stat":{"packet_received":257,"packet_sent":227,"packet_lost":0,"message_received":15,"message_sent":17,"last_message_time":1666885799,"disconnect_times":0,"lost_times":0}},"interval":5000}
+ 到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 停止上报：已达重试上限 
+[2022-10-28 00:11:07] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": context deadline exceeded (Client.Timeout exceeded while awaiting headers) 将进行第 1 次重试 
+[2022-10-28 00:58:05] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 1 次重试 
+[2022-10-28 00:58:08] [WARNING]: 上报 Event 数据到 http://127.0.0.1:5701/ 失败: Post "http://127.0.0.1:5701/": dial tcp 127.0.0.1:5701: connectex: No connection could be made because the target machine actively refused it. 将进行第 2 次重试 
+[2022-10-28 17:50:49] [WARNING]: Protocol -> device lock is disable. http api may fail. 
+[2022-10-28 23:52:17] [WARNING]: Protocol -> device lock is disable. http api may fail. 
